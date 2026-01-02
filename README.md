@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Aspiring software developer with hands-on practice in Java, SQL, and basic web development. I enjoy building small projects, learning core concepts, and improving my problem-solving skills every day. Currently focused on strengthening backend development and writing clean, efficient code. <br>⚡ Fun fact<br><br>I enjoy learning tech step by step and improving a little every day 🚀
+🔭 Aspiring software developer with hands-on practice in Java, SQL, and basic web development. I enjoy building small projects, learning core concepts, and improving my problem-solving skills every day. Currently focused on strengthening backend development and writing clean, efficient code. <br><br>⚡ Fun fact<br>I enjoy learning tech step by step and improving a little every day 🚀
 
 
 ## 🌐 Socials:
